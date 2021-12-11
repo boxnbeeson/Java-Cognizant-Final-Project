@@ -27,12 +27,19 @@
   
   <br>
   Upon heading to our website, you will find the homepage loaded with Cards of each shoe. The ability to buy the shoes is locked until one creates a profile.
+
   ![](images/DemoImg1.png)
+
   Users are able to access a Sign-up, Login, and profile customization screen.
+
   ![](images/DemoImg3.png)
+
   ![](images/DemoImg2.png)
+
   ![](images/DemoImg4.png)
+
   Once logged in, users may add shoes to their cart. The cart items can be adjusted, and users may check out using Stripe on the cart page.
+
   ![](images/DemoImg5.png)
 
 
